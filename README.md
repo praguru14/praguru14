@@ -3,8 +3,8 @@
 
 - 🔭 I’m currently working as a Software Developer
 - 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on React related projects
-- 🤔 I’m looking for help with Backend development
+- 👯 I’m looking to collaborate on Backend development
+- 🤔 I’m looking for help with CSS/SASS😢
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=praguru14)](https://github.com/anuraghazra/github-readme-stats) -->
 ## &#x1f4c8; GitHub Stats
