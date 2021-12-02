@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Backend development
 - 🤔 I’m looking for help with CSS/SASS😢
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=praguru14)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Prafull's GitHub stats](https://github-readme-stats.vercel.app/api?username=praguru14)](https://github.com/praguru14/github-readme-stats) -->
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/praguru14/praguru14">
